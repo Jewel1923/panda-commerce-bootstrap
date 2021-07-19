@@ -1,0 +1,28 @@
+.slider-image-panda{
+    margin-top: 70px;
+}
+.slider-image-panda img{
+         width: 411px;
+         height: 440px;
+}
+.products img{
+    width: 100px;
+}
+.shoe img{
+    width: 350px;
+    height: 210px;
+}
+.bag img{
+    width:350px;
+    height: 324px;
+} 
+.btn-color{
+    background-color: #ff4891;
+    color: aliceblue;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.subscribed{
+    background-color: #fceae8;
+}
